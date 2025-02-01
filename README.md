@@ -41,11 +41,6 @@ understand how different regions handled the crisis.
 ✔ **Healthcare System Response** – ICU capacity vs. infection rates  
 ✔ **Country-Specific Insights** – Ireland’s position relative to other nations  
 
-### 🖥️ **Assessment Criteria (Weighting: 25% each)**  
-📌 **Creativity** – Unique visual storytelling through Tableau  
-📌 **Analytical Depth** – Meaningful insights from COVID-19 trends  
-📌 **Beauty/Design** – Clean and effective dashboard visualization  
-📌 **Overall Storytelling** – Narrative clarity in data interpretation  
 
 ---
 
